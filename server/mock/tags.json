@@ -1,0 +1,9 @@
+[
+  { "_id": "67rdca3eeb7f6fgeed471818", "name": "ALL", "img": "../assets/tag1.png"},
+  { "_id": "67rdca3eeb7f6fgeed471820", "name": "BUNDLES", "img": "../assets/tag2.png" },
+  { "_id": "67rdca3eeb7f6fgeed471814", "name": "HERBS", "img": "../assets/tag3.png" },
+  { "_id": "67rdca3eeb7f6fgeed471822", "name": "VEGETABLES", "img": "../assets/tag4.png" },
+  { "_id": "67rdca3eeb7f6fgeed471824", "name": "FRUITS", "img": "../assets/tag5.png" },
+  { "_id": "67rdca3eeb7f6fgeed471829", "name": "SUPPLIES", "img": "../assets/tag6.png" },
+  { "_id": "67rdca3eeb7f6fgeed471321", "name": "FLOWERS", "img": "../assets/tag7.png" }
+]
